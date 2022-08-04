@@ -11,6 +11,8 @@ import pandas as pd # https://pandas.pydata.org/
 import plotly.express as px # https://plotly.com/python/
 import streamlit as st # https://docs.streamlit.io/
 
+plotly==5.8.0
+
 #streamlit run codigoBase.py
 
 #LENDO O DATASET
